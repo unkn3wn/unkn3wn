@@ -9,7 +9,7 @@ Hi my name is Fernando Reyes i am pursing a career as a web developer
 * 🌍  I'm based in California
 * ✉️  You can contact me at [reyesfernando151@gmail.com](mailto:reyesfernando151@gmail.com)
 * 🧠  I'm learning 3JS
-* ⚡  Im 29 lol
+* ⚡  Im 20 lol
 
 ### Skills
 
