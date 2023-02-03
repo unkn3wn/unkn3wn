@@ -6,14 +6,12 @@ Web Developer
 
 Hi my name is Fernando Reyes i am pursing a career as a web developer
 
-* 🌍  I'm based in California
-* ✉️  You can contact me at [reyesfernando151@gmail.com](mailto:reyesfernando151@gmail.com)
-* 🧠  I'm learning 3JS
-* ⚡  Im 20 lol
+*   🌍  I'm based in California
+*   ✉️  You can contact me at [reyesfernando151@gmail.com](mailto:reyesfernando151@gmail.com)
+*   🧠  I'm learning 3JS
+*   ⚡  Im 29 lol
 
-### Skills
-
-
+### Skills 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
@@ -27,23 +25,16 @@ Hi my name is Fernando Reyes i am pursing a career as a web developer
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" width="36" height="36" alt="Express" /></a>
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
 </p>
-
-
-### Socials
-
-<p align="left"> <a href="https://www.github.com/unkn3wn" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/fernando-reyes-673860240" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
-
-### Badges
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=unkn3wn&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=unkn3wn&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=unkn3wn&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-[![](https://visitcount.itsvg.in/api?id=unkn3wn&icon=0&color=12)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+                    
+                  ### Socials
+                  
+                  
+                <p align="left">
+                          
+                      <a href="https://www.github.com/unkn3wn" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a>
+                          
+                      <a href="https://www.linkedin.com/in/fernando-reyes-673860240" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>### Badges<b>My GitHub Stats</b><a
+                      href="http://www.github.com/unkn3wn"><img src="https://github-readme-stats.vercel.app/api?username=unkn3wn&show_icons=true&hide=issues,&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=000000&hide_border=true&show_icons=true" alt="unkn3wn's GitHub stats" /></a><a
+                      href="http://www.github.com/unkn3wn"><img
+                  src="https://github-readme-streak-stats.herokuapp.com/?user=unkn3wn&stroke=ffffff&background=000000&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a><a
+                      href="http://www.github.com/unkn3wn"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=unkn3wn&bg_color=000000&color=ffffff&line=ef4444&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a><a href="https://github.com/unkn3wn" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=unkn3wn&langs_count=10&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
