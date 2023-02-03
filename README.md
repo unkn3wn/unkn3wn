@@ -35,10 +35,15 @@ Hi my name is Fernando Reyes i am pursing a career as a web developer
 
 ### Badges
 
-<b>My GitHub Stats</b>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=unkn3wn&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=unkn3wn&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=unkn3wn&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<a href="http://www.github.com/unkn3wn"><img src="https://github-readme-streak-stats.herokuapp.com/?user=unkn3wn&stroke=ec4899&background=22272e&ring=0891b2&fire=0891b2&currStreakNum=ec4899&currStreakLabel=0891b2&sideNums=ec4899&sideLabels=ec4899&dates=ec4899&hide_border=true" /></a>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<a href="http://www.github.com/unkn3wn"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=unkn3wn&bg_color=22272e&color=ec4899&line=0891b2&point=ec4899&area_color=22272e&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+---
+[![](https://visitcount.itsvg.in/api?id=unkn3wn&icon=0&color=12)](https://visitcount.itsvg.in)
 
-<a href="https://github.com/unkn3wn" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=unkn3wn&langs_count=10&title_color=0891b2&text_color=ec4899&icon_color=0891b2&bg_color=22272e&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
