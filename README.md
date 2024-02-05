@@ -5,7 +5,6 @@ Web Developer
 -------------
 
 *   🌍  I'm based in California
-*   🖥️  See my portfolio at [My Portfolio](http://ferni-portfolio.vercel.app/)
 *   ✉️  You can contact me at [reyesfernando151@gmail.com](mailto:reyesfernando151@gmail.com)
 *   🧠  I'm learning Python
 *   ⚡  I love to learn
